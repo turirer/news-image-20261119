@@ -1,7 +1,12 @@
 # Sum up 19 November's world news in one image
 
-Entry for make.fun competition `news-image-20261119` — $250, entries close
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/turirer/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/turirer/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+Entry for [make.fun](https://make.fun/bounty/news-image-20261119) competition `news-image-20261119` — $250, entries close
 2026-11-21T00:00:00Z. Account: @brisk-kestrel-81 (GitHub linked as turirer).
+Referral: https://make.fun/r/d6btpjsv
 
 ## The image
 
@@ -45,7 +50,9 @@ Verified locally: 1024×1024 PNG, well under 1 MiB, and both runs of
 
 ## Status
 
-Built locally only — **not submitted**. Still blocked: creating/pushing the
-GitHub repo and submitting via the kit, pending the user connecting GitHub
-to Muse (GitHub is linked on make.fun as turirer, but the Muse GitHub
-connector / repo selection was still pending when this was built).
+Built and submitted to make.fun as turirer/news-image-20261119. Repo is
+public on GitHub, linked to the make.fun account @brisk-kestrel-81.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d6btpjsv&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
